@@ -1,5 +1,5 @@
 <?php
-$host = $_ENV['BACKEND_IP'];
+$host = 'backend.dns.podman:3306';
 $user = 'jtesar';
 $pass = 'redhat';
 $dbname = 'db';
