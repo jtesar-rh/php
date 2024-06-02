@@ -1,5 +1,4 @@
 <?php
-<?php
 $host = 'backend:3306';
 $user = 'jtesar';
 $pass = 'redhat';
