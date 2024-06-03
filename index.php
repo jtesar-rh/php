@@ -1,5 +1,5 @@
 <?php
-$host = 'backend.dns.podman:3306';
+$host = 'backend:3306';
 $user = 'jtesar';
 $pass = 'redhat';
 $dbname = 'db';
