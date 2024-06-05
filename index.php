@@ -1,5 +1,5 @@
 <?php
-$host = 'backend:3306';
+$host = 'backend.myproject.svc.cluster.local:3306';
 $user = 'jtesar';
 $pass = 'redhat';
 $dbname = 'db';
